@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-06-07 20:40+0530\n"
+"PO-Revision-Date: 2019-06-07 20:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pushdaddy.php:86
+msgid "Settings"
+msgstr ""
+
+#: pushdaddy.php:92 pushdaddy.php:1203
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: pushdaddy.php:101
+msgid "PushDaddy"
+msgstr ""
+
+#: pushdaddy.php:102
+msgid "REST API Key and Website ID is required. Update"
+msgstr ""
+
+#: pushdaddy.php:103
+msgid "Now"
+msgstr ""
+
+#: pushdaddy.php:107
+msgid "settings"
+msgstr ""
+
+#: pushdaddy.php:117
+msgid "Yes, associate users automatically when they login."
+msgstr ""
+
+#: pushdaddy.php:118
+msgid "No, prompt user to confirm association."
+msgstr ""
+
+#: pushdaddy.php:189
+msgid "PushDaddy Notification"
+msgstr ""
+
+#: pushdaddy.php:204
+msgid "Title"
+msgstr ""
+
+#: pushdaddy.php:205
+msgid "Your message here..., associate users automatically when they login."
+msgstr ""
+
+#: pushdaddy.php:206
+msgid "Copy Title"
+msgstr ""
+
+#: pushdaddy.php:207
+msgid "Push notification on publish"
+msgstr ""
+
+#: pushdaddy.php:886
+msgid "Click 'yes' to receive personalized notifications and offers."
+msgstr ""
+
+#: pushdaddy.php:887
+msgid "Yes"
+msgstr ""
+
+#: pushdaddy.php:888
+msgid "No"
+msgstr ""
+
+#: pushdaddy.php:889
+msgid "Receive Personalized Notifications and Offers"
+msgstr ""
+
+#: pushdaddy.php:1199
+msgid "PushDaddy - Web Push Notifications"
+msgstr ""
+
+#: pushdaddy.php:1200
+msgid "Stats"
+msgstr ""
+
+#: pushdaddy.php:1201 pushdaddy.php:1222
+msgid "Send Notification"
+msgstr ""
+
+#: pushdaddy.php:1202
+msgid "General Settings"
+msgstr ""
+
+#: pushdaddy.php:1221
+msgid "PushDaddy Stats"
+msgstr ""
+
+#: pushdaddy.php:1223
+msgid "Total Subscribers"
+msgstr ""
+
+#: pushdaddy.php:1224
+msgid "More Info"
+msgstr ""
+
+#: pushdaddy.php:1225
+msgid "Sent Notifications"
+msgstr ""
+
+#: pushdaddy.php:1226
+msgid "CTR"
+msgstr ""
+
+#: pushdaddy.php:1227
+msgid "Last Notification"
+msgstr ""
+
+#: pushdaddy.php:1228
+msgid "Attempted"
+msgstr ""
+
+#: pushdaddy.php:1229
+msgid "Delivered"
+msgstr ""
+
+#: pushdaddy.php:1230
+msgid "Clicked"
+msgstr ""
+
+#: pushdaddy.php:1231
+msgid "Sent at"
+msgstr ""
+
+#: pushdaddy.php:1232
+msgid "Last 7 Notifications"
+msgstr ""
+
+#: pushdaddy.php:1233
+msgid "More Stats"
+msgstr ""
